@@ -1,4 +1,4 @@
-defmodule ExawkTest do
+defmodule ExawkSample do
   use Exawk
 
   begin do
